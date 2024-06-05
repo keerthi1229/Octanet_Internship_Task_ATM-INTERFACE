@@ -1,4 +1,4 @@
-Name : Amruta Varsha Yadav Pigili
+Name : Keerthi Kadimi
 
 OctaNet Python Internship
 
